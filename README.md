@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Aziz ur Rehman</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A passionate iOS developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmad665&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmad665" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **azizhamdani@vbloxx.io**
+- 📫 How to reach me **ahmad.ctn99.ma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
