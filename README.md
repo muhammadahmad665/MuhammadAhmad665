@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **ahmad.ctn99.ma@gmail.com**
+- 📫 How to reach me **contact@binarywolf.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
