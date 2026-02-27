@@ -45,7 +45,7 @@ These products are designed with a user-first mindset, leveraging technology to 
 ### 📫 How to Reach Me
 
 Feel free to connect with me for collaboration, opportunities, or just a chat about iOS development!  
-- **Email**: contact@binarywolf.io  
+- **Email**: ahmad.ctn99.ma@gmail.com  
 - **LinkedIn**: [Muhammad Ahmad](https://www.linkedin.com/in/muhammadahmad665/)  
 
 ---
