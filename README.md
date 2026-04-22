@@ -73,10 +73,31 @@ Feel free to connect with me for collaboration, opportunities, or just a chat ab
     <img alt="github-snake" src="https://raw.githubusercontent.com/ZooHero500/ZooHero500/output/github-snake-dark.svg" />
   </picture>
 </div>
-### 📈 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadahmad665&show_icons=true&locale=en&layout=compact" alt="muhammadahmad665" /></p>
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadahmad665&show_icons=true&locale=en" alt="muhammadahmad665" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZooHero500&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZooHero500&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmad665&" alt="muhammadahmad665" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadahmad665&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadahmad665&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=muhammadahmad665&style=for-the-badge&color=58A6FF&labelColor=0D1117" />
+
+*"Build things that think, talk, and create."*
+
+</div>
